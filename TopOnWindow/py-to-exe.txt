@@ -1,0 +1,2 @@
+conda activate QT
+pyinstaller -F -w -i laptop.ico RunTopOnWindow.py

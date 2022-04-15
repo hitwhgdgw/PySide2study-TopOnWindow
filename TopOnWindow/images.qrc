@@ -1,0 +1,9 @@
+<RCC>
+
+        <qresource prefix="/">
+
+                <file>laptop.ico</file>
+
+         </qresource>
+
+</RCC>
