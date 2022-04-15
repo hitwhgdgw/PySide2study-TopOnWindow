@@ -1,0 +1,2 @@
+# PySide2study-TopOnWindow
+个人学习Python GUI编程用来练手的一个小程序，可以对Windows正在运行的窗口进行置顶操作，代码利用PySide2，pywin32库进行开发。
